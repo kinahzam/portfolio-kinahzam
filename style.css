@@ -37,3 +37,33 @@ header, section {
 h1, h2 {
     color: #2b6cb0;
 }
+/* Kod untuk Dark Mode */
+.dark-mode {
+    background-color: #121212;
+    color: #e0e0e0;
+}
+
+.dark-mode header, .dark-mode section {
+    background-color: #1e1e1e;
+    color: #e0e0e0;
+    box-shadow: 0 4px 6px rgba(255,255,255,0.05);
+}
+
+.dark-mode h1, .dark-mode h2 {
+    color: #63b3ed;
+}
+
+button#darkModeToggle {
+    background-color: #2b6cb0;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-top: 15px;
+    font-weight: bold;
+}
+
+button#darkModeToggle:hover {
+    background-color: #1a365d;
+}
