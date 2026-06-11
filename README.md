@@ -1,20 +1,21 @@
-# Portfolio Peribadi GitHub - CSD 34203
+# Personal GitHub Portfolio - CSD 34203
 
-## Pengenalan
-Projek ini adalah sebuah laman web portfolio peribadi (Personal Blog Page) yang dibangunkan untuk tugasan *CSD 34203 Special Topics in Software Development*. Ia memaparkan maklumat peribadi, kemahiran, dan projek berkaitan UI/UX serta pembangunan aplikasi VR.
+## Introduction
+This project is a personal portfolio website (Personal Blog Page) developed for the *CSD 34203 Special Topics in Software Development* assignment. It showcases my personal information, skills, and projects related to UI/UX and VR app development.
 
-## Senarai Ciri-ciri (Features)
-- **Home Page**: Pengenalan ringkas.
-- **About Page**: Latar belakang, minat (UI/UX, 3D Modeling, Unity), dan hobi.
-- **Blog Page**: Memaparkan 3 artikel sampel (termasuk projek VR dan kajian Deepfake).
-- **Contact Page**: Maklumat untuk dihubungi.
-- **Responsive Design**: Susun atur yang kemas menggunakan CSS.
+## Features
+- **Home Page**: A brief introduction.
+- **About Page**: Academic background, interests (UI/UX, 3D Modeling, Unity), and hobbies.
+- **Blog Page**: Displays 3 sample articles (including a VR project and Deepfake research).
+- **Contact Page**: Contact information.
+- **Responsive Design & Dark Mode**: Styled using CSS with an interactive JavaScript Dark Mode toggle.
 
-## Teknologi Yang Digunakan
+## Technologies Used
 - HTML5
 - CSS3
+- JavaScript
 
-## Cara Menjalankan Projek
-1. Muat turun (clone) *repository* ini.
-2. Buka folder projek.
-3. Klik dua kali pada fail `index.html` untuk membukanya di mana-mana pelayar web (Chrome/Edge/Safari).
+## How to Run the Project
+1. Clone this repository.
+2. Open the project folder.
+3. Double-click the `index.html` file to open it in any web browser (Chrome/Edge/Safari).
