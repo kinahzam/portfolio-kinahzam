@@ -57,13 +57,16 @@ button#darkModeToggle {
     background-color: #2b6cb0;
     color: white;
     border: none;
-    padding: 10px 20px;
+    padding: 6px 15px;
     border-radius: 5px;
     cursor: pointer;
-    margin-top: 15px;
+    margin-left: 15px;
     font-weight: bold;
+    font-size: 14px;
+    vertical-align: middle;
 }
 
 button#darkModeToggle:hover {
-    background-color: #1a365d;
+    background-color: #63b3ed;
+    color: #1a365d;
 }
